@@ -11,5 +11,9 @@ You can add the bot here: https://discord.com/oauth2/authorize?client_id=7663128
 
 current commands:
 !ping - PONG <br>
+
+
 !explain - EXPLAINS THE USE OF THE BOT <b4>
+  
+  
 !changelog - SHOWS A CHANGELOG // THIS IS FOR ACCESSIBILTY USES SO USERS DO NOT HAVE TO COME TO THIS WEBSITE TO LOOK AT THEM! 
