@@ -10,6 +10,8 @@ This is a work in progress, and probably wont be done for a while as this is the
 <b><u>You can add the bot here:</b></u> https://tinylink.net/nw32m <br> :) it's in its early stages so please be kind with it! 
 and please make sure to submit an issue in the issue tab if you come across any bugs!
 
+<B>You can look at the public todolist(trello) here:</b> https://trello.com/b/g2WV935P
+
 ###### current commands:
 <ol>
 <li>m;;commands - brings up a list of commands.</li>
