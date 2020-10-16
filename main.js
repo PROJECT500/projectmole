@@ -38,4 +38,4 @@ client.on('message', message =>{
 
 
 
-client.login('NzY2MzEyODc2MjcyNjQ4MjEz.X4hiew.yhd4eqfefddAh8SyukIJQw-Dx8k');
+client.login('[[REDACTED]]');
