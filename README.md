@@ -8,6 +8,7 @@ Mole stands for - Multiple Others Learning Eachother, and the mascot is a mole b
 This is a work in progress, and probably wont be done for a while as this is the first ever bot I have ever done. 
 
 You can add the bot here: https://discord.com/oauth2/authorize?client_id=766312876272648213&scope=bot&permissions=2105015551 :) it's in its early stages so please be kind with it! 
+and please make sure to submit an issue in the issue tab if you come across any bugs!
 
 current commands:
 !ping - PONG <br>
