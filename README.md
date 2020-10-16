@@ -10,6 +10,6 @@ This is a work in progress, and probably wont be done for a while as this is the
 You can add the bot here: https://discord.com/oauth2/authorize?client_id=766312876272648213&scope=bot&permissions=2105015551 :) it's in its early stages so please be kind with it! 
 
 current commands:
-!ping - PONG
-!explain - EXPLAINS THE USE OF THE BOT
+!ping - PONG <br>
+!explain - EXPLAINS THE USE OF THE BOT <b4>
 !changelog - SHOWS A CHANGELOG // THIS IS FOR ACCESSIBILTY USES SO USERS DO NOT HAVE TO COME TO THIS WEBSITE TO LOOK AT THEM! 
