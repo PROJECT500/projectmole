@@ -23,8 +23,8 @@ and please make sure to submit an issue in the issue tab if you come across any 
 <li>m;;ping - pong!</li>
   <li>m;;breathing - gives the user a video to guide them in their breathing</li>
   <li>m;;github - will send a link to this github page</li>
-    <li>m;;invite</li> - sends a link so you can invite the bot to your own server.
-    <li>m;;discord - sends a link to the offical PROJECT: MOLE discord.</li>
+<li>m;;invite</li> - sends a link so you can invite the bot to your own server.
+<li>m;;discord - sends a link to the offical PROJECT: MOLE discord.</li>
 
 
 
