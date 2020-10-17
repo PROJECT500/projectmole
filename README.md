@@ -12,6 +12,8 @@ and please make sure to submit an issue in the issue tab if you come across any 
 
 <B>You can look at the public todolist(trello) here:</b> https://tinylink.net/bXNtT
 
+<b>Offical PROJECT: MOLE discord:</b> https://discord.gg/euHKNDq
+
 ###### current commands:
 <ol>
 <li>m;;commands - brings up a list of commands.</li>
@@ -19,5 +21,11 @@ and please make sure to submit an issue in the issue tab if you come across any 
 <li>m;;whereami - a breif explanation of where the user is and why they are there. also directs the user to other commands.</li>
   <li>m;;prompt - gives the user basic "about me" info that they can chose to fill out. if sending it in the chat after the bot has sent the message, the users message will not be saved by the bot for privacy reasons and saftey concerns. <br> PROJECT: MOLE strives to keep everyone, including the developer(s) safe. </li>
 <li>m;;ping - pong!</li>
+  <li>m;;breathing - gives the user a video to guide them in their breathing</li>
+  <li>m;;github - will send a link to this github page</li>
+    <li>m;;invite</li> - sends a link so you can invite the bot to your own server.
+    <li>m;;discord - sends a link to the offical PROJECT: MOLE discord.</li>
+
+
 
 </ol>
